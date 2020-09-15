@@ -40,4 +40,4 @@
 
 </details>
 
-[linkedin]: https://www.linkedin.com/in/lopson-balzhinimaev/
+[linkedin]: https://www.linkedin.com/in/lopson-balzhinimaev-3337b81a8/
