@@ -8,8 +8,6 @@
 
 [<img alt="KrokoYR" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/blob/master/svg/linkedin.svg" />][linkedin]
 
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="VSCode" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/blob/master/svg/visualstudiocode.svg" />
