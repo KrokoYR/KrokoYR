@@ -6,27 +6,27 @@
 
 ### Connect with me:
 
-[<img alt="KrokoYR" height="32" width="32" src="./svg/linkedin.svg" />][linkedin]
+[<img alt="KrokoYR" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-<img align="left" alt="VSCode" height="32" width="32" src="./svg/visualstudiocode.svg" />
-<img align="left" alt="React" height="32" width="32" src="./svg/react.svg" />
-<img align="left" alt="ReactStatic" height="32" width="32" src="./svg/react-static-emblem-on-white.png" />
-<img align="left" alt="Node.js" height="32" width="32" src="./svg/node-dot-js.svg" />
-<img align="left" alt="Nest.js" height="32" width="32" src="./svg/nestjs.svg" />
-<img align="left" alt="TypeScript" height="32" width="32" src="./svg/typescript.svg" />
-<img align="left" alt="JavaScript" height="32" width="32" src="./svg/javascript.svg" style="background-color: black" />
-<img align="left" alt="Redux" height="32" width="32" src="./svg/redux.svg" />
-<img align="left" alt="GraphQL" height="32" width="32" src="./svg/graphql.svg" />
-<img align="left" alt="HTML5" height="32" width="32" src="./svg/html5.svg" />
-<img align="left" alt="CSS3" height="32" width="32" src="./svg/css3.svg" />
-<img align="left" alt="Sass" height="32" width="32" src="./svg/sass.svg" />
-<img align="left" alt="MongoDB" height="32" width="32" src="./svg/mongodb.svg" />
-<img align="left" alt="PostgreSQL" height="32" width="32" src="./svg/postgresql.svg" />
-<img align="left" alt="Git" height="32" width="32" src="./svg/git.svg" />
+<img align="left" alt="VSCode" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/visualstudiocode.svg" />
+<img align="left" alt="React" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/react.svg" />
+<img align="left" alt="ReactStatic" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/react-static-emblem-on-white.png" />
+<img align="left" alt="Node.js" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/node-dot-js.svg" />
+<img align="left" alt="Nest.js" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/nestjs.svg" />
+<img align="left" alt="TypeScript" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/typescript.svg" />
+<img align="left" alt="JavaScript" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/javascript.svg" style="background-color: black" />
+<img align="left" alt="Redux" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/redux.svg" />
+<img align="left" alt="GraphQL" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/graphql.svg" />
+<img align="left" alt="HTML5" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/html5.svg" />
+<img align="left" alt="CSS3" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/css3.svg" />
+<img align="left" alt="Sass" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/sass.svg" />
+<img align="left" alt="MongoDB" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/mongodb.svg" />
+<img align="left" alt="PostgreSQL" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/postgresql.svg" />
+<img align="left" alt="Git" height="32" width="32" src="https://github.com/KrokoYR/KrokoYR/tree/master/svg/git.svg" />
 
 <br />
 <br />
