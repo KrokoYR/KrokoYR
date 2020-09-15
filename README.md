@@ -6,26 +6,27 @@
 
 ### Connect with me:
 
-[<img alt="KrokoYR" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][linkedin]
+[<img alt="KrokoYR" height="32" width="32" src="./svg/linkedin.svg" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
+<img align="left" alt="VSCode" height="32" width="32" src="./svg/visualstudiocode.svg" />
+<img align="left" alt="React" height="32" width="32" src="./svg/react.svg" />
+<img align="left" alt="ReactStatic" height="32" width="32" src="./svg/react-static-emblem-on-white.png" />
+<img align="left" alt="Node.js" height="32" width="32" src="./svg/node-dot-js.svg" />
+<img align="left" alt="Nest.js" height="32" width="32" src="./svg/nestjs.svg" />
 <img align="left" alt="TypeScript" height="32" width="32" src="./svg/typescript.svg" />
-<img align="left" alt="JavaScript" height="32" width="32" src="./svg/javascript.svg" style="background-color: black">
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="JavaScript" height="32" width="32" src="./svg/javascript.svg" style="background-color: black" />
+<img align="left" alt="Redux" height="32" width="32" src="./svg/redux.svg" />
+<img align="left" alt="GraphQL" height="32" width="32" src="./svg/graphql.svg" />
+<img align="left" alt="HTML5" height="32" width="32" src="./svg/html5.svg" />
+<img align="left" alt="CSS3" height="32" width="32" src="./svg/css3.svg" />
+<img align="left" alt="Sass" height="32" width="32" src="./svg/sass.svg" />
+<img align="left" alt="MongoDB" height="32" width="32" src="./svg/mongodb.svg" />
+<img align="left" alt="PostgreSQL" height="32" width="32" src="./svg/postgresql.svg" />
+<img align="left" alt="Git" height="32" width="32" src="./svg/git.svg" />
 
 <br />
 <br />
