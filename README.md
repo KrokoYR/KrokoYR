@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img alt="KrokoYR" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/#0077B5.svg" />][linkedin]
+[<img alt="KrokoYR" height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/LinkedIn.svg" />][linkedin]
 
 <br />
 
