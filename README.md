@@ -1,6 +1,6 @@
 ### Hi there, I'm Lopson
 
-- 🌱 I’m currently learning everything connected to Javascript/Flutter.
+- 🌱 I’m currently learning everything connected to Javascript/Flutter/Golang.
 - 👯 I'm looking to learn something from experienced programmers
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
