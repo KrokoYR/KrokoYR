@@ -1,8 +1,8 @@
 ### Hi there, I'm Lopson
 
-- 🌱 I’m currently learning everything connected to Javascript/Flutter/Golang.
+- 🌱 I’m currently learning everything connected to Javascript/Typescript/Dart/Flutter.
 - 👯 I'm looking to learn something from experienced programmers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
