@@ -1,6 +1,6 @@
 ### Welcome to my github! My name is Lopson and I'm frontend developer
 
-- 🌱 I’m currently learning everything connected to Javascript/Typescript/Dart/Flutter.
+- 🌱 I’m currently learning everything connected to Javascript/Typescript/Node.js.
 - 👯 I'm looking to learn something from experienced programmers
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
