@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning everything connected to Javascript/Typescript/Node.js.
 - 👯 I'm looking to learn something from experienced programmers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn Web3 and participate at Hackathons
 
 ### Connect with me:
 
